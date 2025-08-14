@@ -63,17 +63,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.444445
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.5974526
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.887735
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
@@ -115,6 +115,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glasses_Monocle
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_TagString
+      value: mo1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4319d6c4e2307d9419676adbd0273a88, type: 3}
 --- !u!4 &2127500573690533181 stripped
@@ -138,17 +143,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.444445
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.5974526
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.887735
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
@@ -190,6 +195,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glasses_Monocle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_TagString
+      value: mo3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4319d6c4e2307d9419676adbd0273a88, type: 3}
 --- !u!4 &4732361683463853350 stripped
@@ -213,17 +223,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.444445
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.5974526
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.887735
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
@@ -264,6 +274,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Glasses_Monocle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_TagString
+      value: mo2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4319d6c4e2307d9419676adbd0273a88, type: 3}
