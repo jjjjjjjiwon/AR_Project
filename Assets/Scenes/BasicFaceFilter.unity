@@ -1113,5 +1113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GlassGroup
       objectReference: {fileID: 0}
+    - target: {fileID: 8054355883804792313, guid: 9ea69d64f4d1d564aad0ffb8c9409949,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ea69d64f4d1d564aad0ffb8c9409949, type: 3}
